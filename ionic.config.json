@@ -1,0 +1,7 @@
+{
+  "name": "SararatApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
