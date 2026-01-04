@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "เทคโนโลยีเครื่องมือ AI",
+    "author": "JACK PK",
+    "price": "299฿",
+    "available_copies": 3,
+    "cover_url": "https://mp-static.se-ed.com/e-book-audio/3jak21vw7n63g6a1d3gz/image/3viz7sf7"
+  },
+  {
+    "id": 2,
+    "title": "การเขียนโปรแกรมด้วย Golang",
+    "author": "สุพจน์ สง่ากอง",
+    "price": "217฿",
+    "available_copies": 0,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/x5oxm2p7eisi1mhvjpiv/image/yqu0fsn3"
+  },
+  {
+    "id": 3,
+    "title": "คู่มือเขียนโปรแกรม Python",
+    "author": "ศุภชัย สมพานิช",
+    "price": "265฿",
+    "available_copies": 5,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/f3isswy0imswg0c9w4nb/image/vntoyji6"
+  }
+]
